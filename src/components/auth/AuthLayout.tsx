@@ -29,7 +29,7 @@ export function AuthLayout({ children }: AuthLayoutProps) {
 
         {/* Footer */}
         <p className="text-center text-sm text-gray-500 mt-6">
-          Built with Supabase, React, and Konva.js
+          Built for GaunletAI
         </p>
       </div>
     </div>
